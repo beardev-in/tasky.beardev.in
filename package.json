@@ -1,0 +1,27 @@
+{
+  "name": "express-tasky-web-app-v1.0",
+  "version": "1.0.0",
+  "description": "Step 1 : npm init -y Step 2 :      --> npm i express     --> npm i nodemon --save-dev     --> npm i express-validator     --> npm i mongoose",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "prod": "pm2 start app.js --name tasky.beardev"
+  },
+  "keywords": [],
+  "author": "Prash",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.5.2",
+    "morgan": "^1.10.0",
+    "node-schedule": "^2.1.1",
+    "twilio": "^4.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

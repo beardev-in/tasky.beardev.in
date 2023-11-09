@@ -1,0 +1,3896 @@
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:14.492Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 302
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:14.570Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:14.816Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:37.675Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 60
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:40.907Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:31:56.398Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 62
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:32:04.420Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:12.611Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 62
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:14.183Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:31.232Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:31.318Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:33.855Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65424588f4d1e7aed7e5fb88
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:33:41.597Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6542453cf4d1e7aed7e5fb85
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:34:10.770Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:34:10.838Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:34:45.776Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:35:34.778Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:36:08.842Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:38:04.889Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:38:04.949Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:41:13.405Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:41:13.602Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:43:37.871Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 41
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:43:45.939Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 41
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:44:05.672Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 57
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:38.543Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:39.588Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 57
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:42.345Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:42.411Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:44.185Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6542487353ce5ffecb33b818
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:53.907Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:45:55.782Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:46:04.226Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 78
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:46:04.379Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:46:37.762Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:46:37.825Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:47:56.240Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:47:56.307Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:48:03.060Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:48:03.202Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:51:26.977Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:51:27.034Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:51:34.445Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:13.601Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:13.670Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:18.347Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:43.023Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:43.083Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:52:47.917Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:09.748Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:09.809Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:16.649Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:16.703Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:22.735Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:59.442Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:53:59.530Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:05.404Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:05.490Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:38.132Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:38.199Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:43.679Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:54:43.781Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:04.304Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:04.355Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:06.965Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:07.017Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:39.696Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:55:39.751Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:57:16.138Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 302
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:57:16.147Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:57:16.205Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:57:24.486Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:57:24.560Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:58:18.682Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T12:58:18.735Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:18:35.636Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:18:35.760Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:18:47.422Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 52
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:18:48.763Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:19:05.992Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : 69
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:19:06.191Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:20:20.757Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : 69
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:20:20.923Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:30.481Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:30.522Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:35.568Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:35.645Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:48.684Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:23:48.744Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:24:03.591Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 50
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:24:09.604Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 52
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:30:32.878Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 76
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:30:32.954Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:17.235Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:24.275Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:24.520Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:35.303Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 65
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:56.176Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : 77
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T13:32:56.297Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:20.806Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : 69
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:20.892Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:39.172Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:39.213Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:50.614Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : 69
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:06:50.689Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:07:34.345Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : 69
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:07:34.420Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:07:54.319Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:07:54.363Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:07:57.943Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6542503754d7133d458adad6
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:15:55.212Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:15:55.261Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:16:04.538Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:16:04.769Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:17:45.295Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:17:45.428Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:17:50.164Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:17:50.255Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:16.395Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:16.464Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:19.415Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:19.510Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:46.930Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:47.007Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:50.074Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:19:50.161Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:28:34.568Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:28:34.630Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:28:51.303Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:28.069Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:28.129Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:33.349Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 73
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:38.460Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : PUT
+ url : /api/tasks/edit/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : 72
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:38.519Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:58.532Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:58.587Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:29:59.954Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6542488153ce5ffecb33b81c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:30:02.023Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6542481553ce5ffecb33b815
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:30:04.159Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65424529f4d1e7aed7e5fb82
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:30:08.373Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-01T14:30:08.427Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:53:15.242Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 302
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:53:16.006Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:53:16.133Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:54:00.062Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:54:00.120Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:54:05.771Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:54:05.812Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:54:12.536Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 29
+ statusCode : 400
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:55:45.234Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:55:47.015Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:55:50.104Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:55:50.166Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:56:23.207Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:56:23.254Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:56:24.029Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:56:24.078Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:12.332Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:12.469Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:15.820Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435601f0686f9dd6860fb3
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:16.183Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:19.351Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:57:19.395Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:58:27.474Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:58:27.535Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:58:42.548Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:58:43.903Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T07:58:46.821Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 401
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:01:56.619Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /favicon.ico
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 404
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:01:58.038Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:01:58.107Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:05.337Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:30.697Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:34.298Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:34.343Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /favicon.ico
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 404
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:48.682Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:48.741Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:50.581Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:02:50.635Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:03:05.370Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:03:06.657Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:04:42.923Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:04:50.023Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654357b99cbd092534fe3a03
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:04:52.383Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:04:53.709Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:04:57.355Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:06:35.097Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435824d2558ccd3bc49dec
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:06:37.287Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:06:37.911Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:06:40.482Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:07:25.419Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:07:25.507Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:07:44.044Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543588d2fb51c56c2787b71
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:00.123Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:01.169Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:02.401Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654358e052721a8252ba6d45
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:06.285Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:09.896Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:08:36.270Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:09:36.029Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654358e652721a8252ba6d49
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:09:38.437Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:09:42.076Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:09:51.246Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:09.960Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:10.009Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:11.436Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435942291167ac7cf073fe
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:19.045Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:19.576Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:12:23.657Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:13:45.930Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654359e363eff949e7487cf4
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:13:47.726Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:13:48.311Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:13:52.694Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:15:12.013Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435a3b5bf35df6e486b084
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:15:14.550Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:15:16.169Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:15:26.447Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:21:43.288Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:21:43.345Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:21:45.476Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435a922b590d633344c25d
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:21:53.086Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:21:54.532Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:34.772Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 302
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:34.785Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:34.941Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:37.048Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435c210d2bb60f2fd477b9
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:50.163Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:22:50.699Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:24:17.159Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:24:17.222Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:25:25.800Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435c5a65bf7048c8f14d6c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:25:37.848Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:25:38.653Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:45:41.166Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:45:41.221Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:45:42.565Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65435d018289fdd3ba69489d
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:45:49.851Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:45:50.356Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:46:00.623Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:47:00.452Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654361bd13eef1d8ebec3a12
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:47:01.741Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:47:02.198Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:48:43.451Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654362055fadacc037b240d0
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:48:44.746Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:48:44.994Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:49:12.590Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:49:15.872Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543626cebaa4f6cf8f18e41
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:49:17.818Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:49:18.098Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:34.602Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:34.654Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:35.788Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543628dd40a8784173845f3
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:42.427Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:42.605Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:43.367Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:50:45.601Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:51:30.126Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:51:32.480Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:51:36.858Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:51:37.909Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:51:47.699Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:55:28.939Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654362e2a35e7ea8e556f995
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:55:29.790Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654362e2a35e7ea8e556f997
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:55:29.888Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654362e2a35e7ea8e556f997
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:55:31.909Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436312a35e7ea8e556f99b
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:55:33.353Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436318a35e7ea8e556f99e
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:56:25.471Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:56:26.020Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:56:28.793Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:58:25.337Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436439a48760eee32eaa0f
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:58:25.528Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436439a48760eee32eaa0f
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:59:12.896Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:59:13.981Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T08:59:16.654Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:00:29.611Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:00:32.000Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654364e03ddc986edbdb5462
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:00:33.945Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:00:34.231Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:00:36.793Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:02.260Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543653111be4c3925aef4d8
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:03.988Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:04.419Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:05.544Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:05.604Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:18.587Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:36.432Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 58
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:03:37.047Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:04:01.258Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:07.282Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654365c8dd44239adb5fcfa3
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:07.517Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654365c8dd44239adb5fcfa3
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:10.321Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654365e8dd44239adb5fcfa7
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:11.934Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 58
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:12.402Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:07:15.352Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:22.250Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:23.245Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:29.121Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:31.656Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:31.703Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:34.843Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/654366bfc3756703da5a9bfc
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:42.934Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:08:43.291Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:09:35.726Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543671ab4b0eb0c18183b5b
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:09:37.366Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 56
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:09:37.799Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:11:29.625Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:11:29.679Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:11:31.843Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/6543675100599d006a171454
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:11:44.657Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:11:45.003Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:11:45.294Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /favicon.ico
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 404
+ ip : ::1
+ time : 2023-11-02T09:11:54.288Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:11:55.681Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:12:06.678Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 401
+ ip : ::1
+ time : 2023-11-02T09:12:12.391Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:13:08.500Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:13:08.623Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:13:10.121Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654367daa697fdcf2f6b58d9
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:13:12.170Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:13:12.725Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:14:33.492Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:14:33.661Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:14:34.703Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/6543682899609be25fff7fb4
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:15:33.568Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:15:33.732Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:15:35.416Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/6543688020fc6e1fd1475e4a
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:15:40.830Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:15:41.850Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:33:59.723Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:33:59.897Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:34:01.839Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654368bc6013e405f4fe929c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:35:01.717Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:35:01.779Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:35:02.856Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436d0f7df2c8e2adf93080
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:36:35.979Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:36:36.043Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:36:38.205Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : DELETE
+ url : /api/tasks/delete/65436d5564eff513f5b17515
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:37:13.746Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:37:13.855Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:37:16.037Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436dae2871ca6cb261b168
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:38:01.154Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:38:01.218Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:38:03.915Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:38:04.020Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:38:59.312Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:38:59.474Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:39:00.907Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436e00695f721c8847ef99
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:39:02.249Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436dd1b53367e05f10260c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:39:28.136Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:39:28.232Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:39:30.320Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:39:30.439Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:39:32.011Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436e3c81541b82dbaf6ca1
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:40:10.184Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:40:10.295Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:40:12.236Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436e5800108ed4d828a479
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:40:19.003Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:40:19.578Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:41:06.845Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:41:06.953Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:41:07.993Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436e83a4c9b814e7208f15
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:41:13.284Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:41:13.785Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:50:29.841Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:50:29.992Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:50:31.940Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65436eb98e18effeb744238d
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:50:37.001Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:50:37.514Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:22.647Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:22.801Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:23.720Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654370ed3e8de4ac16f29c4c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:28.527Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:28.720Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:49.045Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:49.144Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:50.616Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65437120c7c595e9d72685ec
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:54.959Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:51:55.675Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:53:39.424Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:53:39.638Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:53:41.019Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/6543713a7017ab47b0013860
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:53:44.709Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 38
+ statusCode : 400
+ ip : ::1
+ time : 2023-11-02T09:53:48.725Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:53:49.223Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:54:48.565Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:54:54.004Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:54:54.092Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:54:55.620Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:00.051Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:00.136Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:10.426Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654371ac09fd9165d0bf725f
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:10.482Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:14.280Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:55:18.214Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:26.056Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:26.159Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:27.553Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654371ac09fd9165d0bf725f
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:29.449Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:29.962Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:45.302Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/65437289367cbd322e9dd80c
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T09:57:45.500Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:58:14.804Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:58:36.340Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:59:51.790Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::ffff:127.0.0.1
+ time : 2023-11-02T09:59:57.401Z
+ userAgent : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 304
+ ip : ::1
+ time : 2023-11-02T10:00:01.102Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:11.117Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:11.246Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:13.658Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/65437289367cbd322e9dd80c
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:19.474Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 55
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:19.978Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:27.830Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654373339e97c712f7200130
+ referer : https://localhost:8081/
+ contentLength : 72
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:27.988Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:31.835Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:36.952Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:37.041Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:39.895Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654373339e97c712f7200130
+ referer : https://localhost:8081/
+ contentLength : 72
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:40.049Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:44.262Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:47.975Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:49.516Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:49.634Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:50.984Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654373339e97c712f7200130
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:00:53.235Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:05.780Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:05.921Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:10.681Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:10.968Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:18.328Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:22.370Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:02:22.462Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:10.689Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:10.802Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:12.222Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654373a21e935b757d8b1760
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:19.038Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:19.533Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:26.401Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/6543742341a28a71b84da3bd
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:26.560Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:39.149Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:43.487Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:04:43.609Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:06:50.381Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/6543742341a28a71b84da3bd
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:06:52.006Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:06:52.439Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:06:56.362Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:04.503Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654374bcb1694170ad6e9796
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:04.575Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:06.831Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:43.112Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:43.316Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:44.593Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654374bcb1694170ad6e9796
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:49.097Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:07:49.366Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:00.943Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:07.257Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:07.346Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:11.693Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654374f56ecbfc0c03b1dfff
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:11.867Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:21.824Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:21.915Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:09:23.693Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:15:51.337Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:15:51.634Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:15:52.715Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654374f56ecbfc0c03b1dfff
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:16:01.367Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:16:02.481Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:16:05.647Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:17:07.020Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654376e17650fbb3d629015d
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:17:07.109Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:17.735Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/654376e17650fbb3d629015d
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:20.419Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:20.913Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:24.815Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:35.065Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/6543776cf98644ffaf4156d6
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:18:35.185Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:08.431Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:08.695Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:11.082Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : DELETE
+ url : /api/tasks/delete/6543776cf98644ffaf4156d6
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:16.449Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : POST
+ url : /api/tasks/add
+ referer : https://localhost:8081/
+ contentLength : 54
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:16.884Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:18.995Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:29.018Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : PUT
+ url : /api/tasks/edit/654377a413f523e5adc35ce9
+ referer : https://localhost:8081/
+ contentLength : 71
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:29.088Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:19:31.470Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:21:16.375Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /admin
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:22:03.493Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /
+ referer : -
+ contentLength : -
+ statusCode : 200
+ ip : ::1
+ time : 2023-11-02T10:22:03.628Z
+ userAgent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ method : GET
+ url : /api/tasks
+ referer : https://localhost:8081/
+ contentLength : -
+ statusCode : 200
